@@ -1,6 +1,6 @@
 # RATZ-10-11-2024
 
-![image](https://github.com/user-attachments/assets/9e5dfe13-e938-4e77-898e-e65fb25af973)
+![screencapture](https://github.com/user-attachments/assets/5e459fe5-d91e-49fc-bf7d-fb1e14361a0a)
 
 
 <div align="center">Система классификации электрокортикограмм</div>
